@@ -1,0 +1,36 @@
+iframe.iframe1 {
+	position: fixed;
+	padding-left: 1px;
+	margin-top: 4px;
+	left: 12%;
+	width: 45%;
+	background-color: #f2e78a;
+	border: 1px solid black;
+	padding-bottom: 2px;
+}
+iframe.iframe2 {
+	position: fixed;
+	top: 40%;
+	padding-left: 1px;
+	margin-top: 4px;
+	left: 12%;
+	width: 45%;
+	background-color: #f2e78a;
+	border: 1px solid black;
+	padding-bottom: 2px;
+}
+div.Nav {
+	position: fixed;
+	background-color: #a4f9b1;
+	width: 10%;
+	top: 0%;
+	left: 0%;
+	height: 100%;
+	border-right: 2px solid black;
+	padding-left: 12px;
+}
+div.main {
+	position: fixed;
+	left: 11%;
+	padding-left: 8px;
+}
