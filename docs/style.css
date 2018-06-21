@@ -1,11 +1,23 @@
+body {
+	color: #FFFFFF;
+	background-color: #000000;
+}
+a {
+	color: #00FF20
+}
+a:hover {
+	color: #30FF60
+}
+u:hover {
+	color: #FF2020;
+}
 iframe.iframe1 {
 	position: fixed;
 	padding-left: 1px;
 	margin-top: 4px;
 	left: 12%;
 	width: 45%;
-	background-color: #f2e78a;
-	border: 1px solid black;
+	border: 1px solid #002200;
 	padding-bottom: 2px;
 }
 iframe.iframe2 {
@@ -15,19 +27,19 @@ iframe.iframe2 {
 	margin-top: 4px;
 	left: 12%;
 	width: 45%;
-	background-color: #f2e78a;
-	border: 1px solid black;
+	border: 1px solid #002200;
 	padding-bottom: 2px;
 }
 div.Nav {
 	position: fixed;
-	background-color: #a4f9b1;
 	width: 10%;
 	top: 0%;
 	left: 0%;
 	height: 100%;
-	border-right: 2px solid black;
+	border-right: 2px solid #002200;
 	padding-left: 12px;
+	color: #FFFFFF;
+	background-color: black;
 }
 div.main {
 	position: fixed;
